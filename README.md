@@ -1,4 +1,4 @@
-# temple-manamgnet-system
+# temple-management-system
 Introduction
 Sri Lanka has been a center of Buddhist scholarship and practice since the introduction of Buddhism in the third century BCE producing eminent scholars such as Buddhaghosa and preserving the vast Pāli Canon. Throughout most of its history, Sri Lankan kings have played a major role in the maintenance and revival of the Buddhist institutions of the island. During the 19th century, a modern Buddhist revival took place on the island which promoted Buddhist education. D In 2007, there were around 6,000 Buddhist monasteries on Sri Lanka with approximately 30,000 monks.
 
